@@ -1,7 +1,6 @@
-# xrayspec
+# respec
 
-@spec for your data.
-Hierarchical type specifications in Erlang.
+Hierachical @spec for your Erlang data.
 Broadly applicable; built to verify incoming messages from untrusted source.
 
 Reduces any matching data structure to 'ok', or the elements that do not match
